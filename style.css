@@ -1,0 +1,22 @@
+h1{
+    font-family: 'Playfair', serif;
+    color: antiquewhite;
+
+  }
+  p{
+    font-family: 'Playfair', serif;
+    color: antiquewhite;
+    text-align: unset; 
+  }
+  body{
+    background-color: black;
+  }
+.poster{
+margin-left: 10%;
+text-align: center;
+margin-top: 100px;
+margin-bottom: 10%;
+}
+.motivation-img {
+  border: 10px solid silver;
+}
